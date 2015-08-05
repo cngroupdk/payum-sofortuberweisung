@@ -13,6 +13,10 @@
         {
             "name": "Ruben Rögels",
             "email": "ruben.roegels@wiseape.de"
+        },
+        {
+            "name": "Jakub Buriánek",
+            "email": "burianekj@cngroup.dk"
         }
     ],
     "require": {
